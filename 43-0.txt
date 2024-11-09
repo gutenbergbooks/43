@@ -1,4 +1,3 @@
-
 The Strange Case Of Dr. Jekyll And Mr. Hyde
 
 by Robert Louis Stevenson
@@ -540,7 +539,7 @@ God, there is no statute of limitations. Ay, it must be that; the ghost
 of some old sin, the cancer of some concealed disgrace: punishment
 coming, _pede claudo_, years after memory has forgotten and self-love
 condoned the fault.” And the lawyer, scared by the thought, brooded
-awhile on his own past, groping in all the corners of memory, least by
+awhile on his own past, groping in all the corners of memory, lest by
 chance some Jack-in-the-Box of an old iniquity should leap to light
 there. His past was fairly blameless; few men could read the rolls of
 their life with less apprehension; yet he was humbled to the dust by
@@ -2038,7 +2037,7 @@ recognised my natural body from the mere aura and effulgence of certain
 of the powers that made up my spirit, but managed to compound a drug by
 which these powers should be dethroned from their supremacy, and a
 second form and countenance substituted, none the less natural to me
-because they were the expression, and bore the stamp of lower elements
+because they were the expression, and bore the stamp, of lower elements
 in my soul.
 
 I hesitated long before I put this theory to the test of practice. I
@@ -2550,4 +2549,3 @@ release himself at the last moment? God knows; I am careless; this is
 my true hour of death, and what is to follow concerns another than
 myself. Here then, as I lay down the pen and proceed to seal up my
 confession, I bring the life of that unhappy Henry Jekyll to an end.
-
